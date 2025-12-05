@@ -8,7 +8,7 @@ a backend-focused developer who enjoys building clean, functional systems with s
 🚀 Live Site
 
 🔗 View Portfolio:
-https://rushabh-beep.github.io/my-portfolio/
+https://rushabh-beep.github.io/
 
 📌 What this portfolio includes
 
